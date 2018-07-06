@@ -1,0 +1,75 @@
+
+p {
+	text-align: justify;
+}
+ul{
+	text-align: justify;
+}
+.navbar-default .navbar-brand{
+	width: 70%;
+	padding:8px;
+	color: #1ac7a2;
+}
+.contacto{
+	list-style-type: none;
+}
+.fondo-gris {
+	background-color: #eaeaea;
+	margin-top: 75px;
+}
+.fondo-mapa{
+	padding: 25px;
+}
+.form-inline input.form-control{
+	width: 150px;
+}
+ol {
+	padding-bottom: 20px;
+}
+.imagenes{
+	height: 100%;
+	width: auto;
+}
+.imagenfondo{
+	background-image: url("imagenes/fondo.jpg");
+	width: 100%;
+	text-align: center;
+	background-size: 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #fffb00;
+	padding: 100px 50px;
+}
+.navbar-header .img-responsive{
+	height: 43px;
+}
+.fondo-footer{
+	background-color: black;
+	color: white;
+}
+.mapa {
+	padding: 20px;
+}
+.form-inline{
+	padding-bottom: 15px;
+}
+.columnas .row .img-responsive{
+	height: 200px;
+}
+@media (max-width: 600px) {
+	.imagenfondo{
+		padding: 14px;
+		color:black;
+	}
+	.titulo{
+		color: #c7d5ff;
+		margin-top: -10px;
+	}
+}
+
+
+
+
+
+
+}
